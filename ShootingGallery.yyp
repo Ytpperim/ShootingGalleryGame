@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "42994a6e-26e2-4788-97f6-a250fd0b8a80",
+            "Value": {
+                "id": "2f8a96d5-ea8d-4f44-8d5c-ce1308be79ff",
+                "resourcePath": "fonts\\font_in_game\\font_in_game.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "4c1f6c05-aeac-4573-9d81-89a138387b0e",
             "Value": {
                 "id": "470269e3-0854-40d9-aca4-b12ae431a881",
