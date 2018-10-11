@@ -1,3 +1,9 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 51A6DCE0
+/// @DnDArgument : "var" "score"
+score = 0;
+
 /// @DnDAction : YoYo Games.Timelines.Set_Timeline
 /// @DnDVersion : 1
 /// @DnDHash : 3B142B87
