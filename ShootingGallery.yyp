@@ -343,11 +343,27 @@
             }
         },
         {
+            "Key": "f3c2d0e3-fda0-4a04-bad8-66a69900d976",
+            "Value": {
+                "id": "84d337a9-6f0b-45c1-8952-94c2068b4041",
+                "resourcePath": "sprites\\spr_cloud2\\spr_cloud2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f8bc6c35-707d-496f-ac00-a5723e65d287",
             "Value": {
                 "id": "90042de8-2ef3-4848-8df7-f01bba90da55",
                 "resourcePath": "objects\\obj_crosshair\\obj_crosshair.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fa21c4a2-d8f8-4594-abe7-673d8b1c3fcf",
+            "Value": {
+                "id": "870d226a-768d-4dc1-a642-2e6b5516f8bb",
+                "resourcePath": "sprites\\spr_cloud1\\spr_cloud1.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
