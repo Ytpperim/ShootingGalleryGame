@@ -21,3 +21,20 @@ if(__dnd_lives <= 0)
 	/// @DnDSaveInfo : "room" "5616f4cc-f671-488a-b278-65e2f4822ecb"
 	room_goto(room_end);
 }
+
+/// @DnDAction : YoYo Games.Instance Variables.If_Lives
+/// @DnDVersion : 1
+/// @DnDHash : 721EA7E2
+/// @DnDArgument : "op" "4"
+/// @DnDArgument : "value" "15"
+if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
+if(__dnd_lives >= 15)
+{
+	/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
+	/// @DnDVersion : 1
+	/// @DnDHash : 7F947D05
+	/// @DnDParent : 721EA7E2
+	/// @DnDArgument : "lives" "15"
+	
+	__dnd_lives = real(15);
+}
